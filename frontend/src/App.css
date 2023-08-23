@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Kanit:wght@300&family=M+PLUS+Rounded+1c:wght@500&family=Roboto:wght@300;400&family=Ubuntu&display=swap');
+
+* {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}

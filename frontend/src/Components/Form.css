@@ -1,0 +1,53 @@
+#uname,
+#uemail,
+#phone,
+#role ,input[type="file"] {
+    border: none;
+    border-bottom: 1px solid #000;
+    width: 20rem;
+    height: 20px;
+    outline: none;
+    height: 20px;
+    text-align: center;
+}
+
+
+.Form_container {
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    position: relative;
+    top: 6rem;
+}
+
+.input_tag {
+    margin: 4px;
+    padding: 10px;
+}
+
+.submt_form {
+    position: relative;
+    top: 2rem;
+    right: 1rem;
+}
+
+.btn_btn {
+    margin-left: 30px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    font-size: medium;
+}
+#back_link{
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+    position: relative;
+    top: 4rem;
+    left: 2rem;
+    padding: 5px 10px;
+    border-radius: 8px;
+}

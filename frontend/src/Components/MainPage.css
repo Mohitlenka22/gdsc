@@ -1,0 +1,66 @@
+.main_Container {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+}
+
+.Card {
+    border: 1px solid black;
+    /* height: 1.5rem; */
+    padding: 10px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 0.3rem;
+    justify-items: center;
+    align-content: center;
+}
+
+.content {
+    margin-top: 2rem;
+}
+
+#edit_btn {
+    border: none;
+    padding: 10px 5px;
+    border-radius: 6px;
+    margin-left: 1rem;
+    color: #000;
+    position: relative;
+    top: 1rem;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+}
+
+.add_btn {
+    margin-left: 2rem;
+    margin-right: 2.5rem;
+    margin-top: 1rem;
+    padding: 10px 12px;
+    border-radius: 10px;
+    border: none;
+    font-size: medium;
+    background-color: blue;
+    color: #fff;
+    height: 1rem;
+    text-decoration: none;
+
+}
+
+.Card-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* #link {
+    position: relative;
+    top: 1rem;
+    left: 4rem;
+} */
+
+#hhead {
+    margin-left: 2rem;
+}
