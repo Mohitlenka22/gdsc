@@ -1,0 +1,53 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card {
+  background-color: #e4dfdf;
+  border-radius: 8px;
+  box-shadow: 0 0px 12px rgba(48, 47, 47, 0.1);
+  padding: 20px;
+  width: 300px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.card h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 16px;
+  color: #666;
+}
+
+.Project-container {
+  padding: 50px;
+}
+.butn {
+  position: fixed;
+  right: 40px;
+  bottom: 50px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #000;
+  border-radius: 18px;
+  padding: 10px 16px;
+}
+.butn span {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.card p{
+  color: #000;
+}

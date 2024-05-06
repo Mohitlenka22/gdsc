@@ -1,0 +1,59 @@
+.signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8rem;
+    box-shadow: 0px 0px 8px gray;
+    height: 22rem;
+    width: 12rem;
+    padding: 40px 60px;
+    position: relative;
+    bottom: 4rem;
+}
+input{
+    margin-bottom: 1.5rem;
+    margin-left: 1rem;
+    border: none;
+    outline: none;
+    border-bottom:1.5px solid #000 ;
+    padding: 2px 4px;
+    
+}
+input[type="submit"]{
+    background-color: black;
+    border-radius: 8px;
+    color: #fff;
+    padding: 6px;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+
+#Icon{
+    position: relative;
+    bottom: -2rem;
+    right: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .signup {
+        height: 25rem;
+        width: 13rem;
+        margin-left: -28.5rem;
+    }
+}
+
+.signup-container {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 5rem;
+}
+
+img {
+    width: 40%;
+}
+
+.footer {
+    position: relative;
+    bottom: 4rem;
+}

@@ -1,0 +1,10 @@
+.Approve-log {
+    width: 60%;
+}
+.approve-container {
+    position: relative;
+    top: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

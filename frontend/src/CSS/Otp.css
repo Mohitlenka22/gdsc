@@ -1,0 +1,11 @@
+.otp-container {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 40px;
+}
+.otp-logo{
+    position: relative;
+    top: 5rem;
+    left: 3rem;
+    width: 50%;
+}

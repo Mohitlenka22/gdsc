@@ -1,0 +1,62 @@
+#web_login {
+  position: relative;
+  top: 29rem;
+  right: 21rem;
+  background-color: blue;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 18px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.body {
+  padding-bottom: 200px;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+section {
+  flex: 1 1 45%;
+  margin-bottom: 20px;
+}
+
+.image-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-section img {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: 5rem;
+}
+
+.para {
+  width: 30%;
+  position: relative;
+  top: 6rem;
+  left: 6rem;
+  font-size: large;
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.footer-home {
+  position: relative;
+  top: 2.5rem;
+}

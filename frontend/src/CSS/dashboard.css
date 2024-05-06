@@ -1,0 +1,23 @@
+.member-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: 8rem;
+}
+
+.member-head {
+    position: relative;
+    bottom: 15rem;
+    left: 10rem;
+}
+.member-img {
+    position: relative;
+    left: 8rem;
+}
+
+.card-mem{
+    position: relative;
+    right: 14rem;
+    bottom: 6rem;
+}

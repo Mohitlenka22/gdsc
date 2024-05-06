@@ -1,0 +1,12 @@
+footer{
+    background-color: #000;
+    height: 45px;
+    position: relative;
+    top: 14rem;
+    padding: 15px ;
+}
+
+footer p {
+    color: #fff;
+    padding-left: 20px;
+}

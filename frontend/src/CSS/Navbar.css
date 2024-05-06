@@ -1,0 +1,44 @@
+#nav_img {
+  height: 4rem;
+  width: 6rem;
+}
+
+#logout {
+  position: relative;
+  right: 1rem;
+  border-radius: 10px;
+  border: none;
+  padding: 10px 10px;
+  height: 40px;
+  background-color: #0d7d0d;
+  color: #fff;
+  font-size: medium;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #000;
+  height: 50px;
+  padding: 5px 1px;
+}
+
+header nav ul {
+  display: flex;
+  gap: 2rem;
+}
+
+nav ul li a {
+  list-style: none;
+  text-decoration: none;
+  color: #000;
+  background-color: white;
+  padding: 8px 10px;
+  border-radius: 18px;
+}
+
